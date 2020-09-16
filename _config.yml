@@ -6,3 +6,6 @@ timezone: 'UTC'
 # Styling
 
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-redirect-from
+  
